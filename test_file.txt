@@ -1,2 +1,8 @@
 Daniel Schäftner
+<<<<<<< Updated upstream
 euer name
+=======
+new name
+
+Sarah Bouslimani
+>>>>>>> Stashed changes
