@@ -1,4 +1,5 @@
 Daniel Schäftner
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 euer name
 =======
@@ -6,3 +7,9 @@ new name
 
 Sarah Bouslimani
 >>>>>>> Stashed changes
+=======
+euer name
+tom oje holst
+>>>>>>> 3458131ac35dd874bd8fb720959cc292d4d29244
+
+
